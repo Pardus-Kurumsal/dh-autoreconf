@@ -1,3 +1,10 @@
+dh-autoreconf (17pardus1) onyedi; urgency=medium
+
+  * Pardus CI implementation
+  * Remove gbp.conf for clean build
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 20 Nov 2018 12:35:43 +0300
+
 dh-autoreconf (17~bpo9+1) stretch-backports; urgency=medium
 
   * Rebuild for stretch-backports.
